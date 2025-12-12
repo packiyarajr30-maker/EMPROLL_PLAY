@@ -4,5 +4,5 @@ This is a java Project for Employee RollPay;
 
 Output:
 
-![EmpPayOP]()
-![EmpPayOP]()
+![EmpPayOP](/payOP.png)
+![EmpPayOP](/payOP2.png)
